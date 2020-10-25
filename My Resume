@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+  <header>
+    <title>
+      <h1>Jeremy King</h1>
+    </title>
+  </header>
+
+
+  <body>
+    <h2>Objective</h2>
+     <p>Self-motivated technology professional, proficient in HTML coding, CSS and JavaScript.
+        My goal is to aquire a job in the technology field and continue my journey of learning coding.
+        Developing code and formatting for online websites and applications is a passion of mine.</p>
+
+
+    <h2>Work Experience</h2><br><br>
+
+    <strong>Chesapeake Inn Valet Manager</strong>
+    <Article>May 2016-September 2018<br>
+      Oversaw the movement of hundreds of vehicles daily, while maintaining the most fast and efficient
+      way possible. Handled scheduling, hiring responsibilities, and was front line for customer service.</article><br>
+
+    <strong>SunMed Growers</strong>
+            October 2019-March 2020<br>
+       <p>Was a team member that assisted in the growth and care of every product in the building. Played
+          a role in every part of the growing process, and helped with day-to-day activities.</p><br><br>
+
+    <strong>Education</strong>
+        <em>Appoquinimink High School</em>
+        <em>2010-2014</em>
+        <p>Maintained a high GPA with a focus on business management</p><br><br>
+
+        <em>Wilmington University</em>
+        <em>Studied in administrative business</em><br><br>
+
+    <strong>Skills</strong>
+
+        <p>Proficient in modern Microsoft Office.<br>
+           Extensive customer service experience, from a team leader as well as team member.<br>
+           Basic understanding of HTML, CSC and studying JavaScript. </p><br><br>
+
+    <a href="https://www.linkedin.com/in/jeremy-king-2264781ba/">LinkedIn Profile</a>
+
+   !-- No profile picture added! --!

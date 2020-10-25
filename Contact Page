@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<form action="contact" method="post">
+!-- First name --!
+<textarea id="name" name="first_name" max=30></textarea>
+
+!-- Last name --!
+<textarea id="name" name="last_name" max=30></textarea>
+
+!-- Contact phone number --!
+<textarea id="number" name="phone_number"></textarea>
+
+
+!-- Phone number type --!
+<input type="radio" id="landline" name="phone_type" value="landline">
+<label for="landline">Landline</label><br>
+
+<input type="radio" id="mobile" name="phone_type" value="mobile">
+<label for="mobile">Mobile</label><br>
+
+!-- Contact emial --!
+<textarea id="email" name"contact_email" max=50></textarea>
+
+
+!-- How did you hear about us --!
+<label for="Reference">Reference</label>
+
+<select name="reference" id="reference">
+  <option value="social media">Social Media</option>
+  <option value="search engine">Search Engine</option>
+  <option value="recruiter">Recruiter</option>
+</select>
+
+!--Interest for contact --!
+<label for="inerest_for_contact">Interest For Contacting</label>
+
+  <input type=checkbox id="skill1" name="skill1" value="html">
+  <label for="skill1">HTML</label><br>
+
+  <input type="checkbox" id="skill2" name="skill2" value="CSS">
+  <label for="skill2">CSS</label>
+
+  <input type="checkbox" id="skill3" name="skill3" value="hospitality">
+  <label for="skill3">Hospitality</label>
+
+  <input type="checkbox" id="skill4" name="skill4" value="JavaScript">
+  <label for="skill4">JavaScript</label>
+
+!-- Message --!
+<textarea id="message" name="message" max=250>Short Message</textarea>
+
+
+<button type="submit">Submit</button>
+
+
+</form>
