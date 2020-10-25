@@ -2,40 +2,40 @@
 
 <form action="contact" method="post">
 !-- First name --!
-<textarea id="name" name="first_name" max=30></textarea>
+<textarea id="name" name="first_name" max=30></textarea><br><br>
 
 !-- Last name --!
-<textarea id="name" name="last_name" max=30></textarea>
+<textarea id="name" name="last_name" max=30></textarea><br><br>
 
 !-- Contact phone number --!
-<textarea id="number" name="phone_number"></textarea>
+<textarea id="number" name="phone_number"></textarea><br><br>
 
 
 !-- Phone number type --!
 <input type="radio" id="landline" name="phone_type" value="landline">
-<label for="landline">Landline</label><br>
+<label for="landline">Landline</label><br><br>
 
 <input type="radio" id="mobile" name="phone_type" value="mobile">
-<label for="mobile">Mobile</label><br>
+<label for="mobile">Mobile</label><br><br>
 
 !-- Contact emial --!
-<textarea id="email" name"contact_email" max=50></textarea>
+<textarea id="email" name"contact_email" max=50></textarea><br><br>
 
 
 !-- How did you hear about us --!
-<label for="Reference">Reference</label>
+<label for="Reference">Reference</label><br>
 
 <select name="reference" id="reference">
   <option value="social media">Social Media</option>
   <option value="search engine">Search Engine</option>
   <option value="recruiter">Recruiter</option>
-</select>
+</select><br><br>
 
 !--Interest for contact --!
 <label for="inerest_for_contact">Interest For Contacting</label>
 
   <input type=checkbox id="skill1" name="skill1" value="html">
-  <label for="skill1">HTML</label><br>
+  <label for="skill1">HTML</label>
 
   <input type="checkbox" id="skill2" name="skill2" value="CSS">
   <label for="skill2">CSS</label>
@@ -44,7 +44,7 @@
   <label for="skill3">Hospitality</label>
 
   <input type="checkbox" id="skill4" name="skill4" value="JavaScript">
-  <label for="skill4">JavaScript</label>
+  <label for="skill4">JavaScript</label><br><br>
 
 !-- Message --!
 <textarea id="message" name="message" max=250>Short Message</textarea>
